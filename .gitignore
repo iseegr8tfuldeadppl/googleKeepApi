@@ -1,2 +1,4 @@
 state
 secret_values.py
+.ipynb_checkpoints
+__pycache__
